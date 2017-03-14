@@ -1,0 +1,9 @@
+variable: 3 types: string, number, or boolean. assigned a name to refer to one of these 
+
+String: type of variable enclosed in quotes, typically alpha characters but a number can be a string if it is in quotation marks
+
+Functions (arguments, return): block of code written to perform a specific task when it is called, can be reused. Arguments are variables that the function requires to complete the task, and the function returns the result of the calculations.
+
+if Statements: conditional statement, the evaluation of the if condition determins the next step of the code
+
+Boolean values (true, false): a Boolean value is used when a statement of code asks if something is true/false. 
